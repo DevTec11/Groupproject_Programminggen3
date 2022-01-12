@@ -1,9 +1,13 @@
-flexbox-container {
-background-image: url("images/3GL_image_three.jfif") ;
-} 
-flexone {
-
+.flexbox-container {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+align-content: space-around;
 }
-flextwo {
+.flexone {
+    
+}
+.flextwo {
 
 }

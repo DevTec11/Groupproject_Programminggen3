@@ -1,3 +1,16 @@
+.flexbox-container {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+align-content: space-around;
+}
+.flexone {
+    
+}
+.flextwo {
+
+=======
 body{
     display:flex;
     color: rgba(29, 28, 28, 0.562);
